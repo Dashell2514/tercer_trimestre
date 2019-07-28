@@ -32,7 +32,7 @@ body{
     background: -o-linear-gradient(#6e046e, #5ac5f0, #05ad0e);
     background: linear-gradient(#6e046e, #5ac5f0, #05ad0e);
     position: absolute;
-    top: 0;
+    top: 0%;
     left: -30%;
     display: flex;
     align-items: center;
@@ -48,6 +48,7 @@ body{
     display: none;
     
 }
+
 
 ul a {
     color: #F7F7F7;
@@ -102,6 +103,21 @@ li:hover {
     transform: translateX(200px);
     border-radius: 10px;
 }
+.col-md-12{
+    border-radius: 20px;
+    padding-top: 14px;
+    font-size: 18px;
+    height: 50px;
+    background-color: #bbdefb;
+}
+.sola{
+    margin-left: 160px;
+    color: black;
+}
+.sola:hover{
+    text-decoration: none;
+    color: #1e88e5;
+}
 /*Empresas---------------------------------------*/
 .first-paragraph{
     padding-top: 5px;
@@ -116,11 +132,15 @@ li:hover {
     color: black;
 }
 .empresa{
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .colombia{
     padding-bottom: -10px;
 }
 .TituloC{
-    color: #D60C12;
+    color: darkred;
 }
+.cursor{
+    cursor: pointer;
+}
+
