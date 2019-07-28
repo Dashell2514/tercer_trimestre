@@ -24,6 +24,10 @@ body{
     left: 28%;
     border-radius: 0 0.5rem 0.5rem 0;
 }
+.imagen{
+    display:block;
+    margin:auto;
+}
 
 .left-panel {
     width: 28%;
@@ -144,3 +148,17 @@ li:hover {
     cursor: pointer;
 }
 
+/*Empleo-----------------*/
+.col-md-4{
+    font-size: 18px;
+    color: black;
+}
+.tamaño{
+    font-size: 15px;
+}
+.largo{
+    margin-left: 100px;
+}
+.pequeño{
+    margin-left: 50px;
+}
