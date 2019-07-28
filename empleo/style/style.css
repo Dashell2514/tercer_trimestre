@@ -102,3 +102,25 @@ li:hover {
     transform: translateX(200px);
     border-radius: 10px;
 }
+/*Empresas---------------------------------------*/
+.first-paragraph{
+    padding-top: 5px;
+    font-size: 25px;
+}
+.second-paragraph{
+    font-size: 16px;
+    color: black;
+}
+.third-paragraph{
+    font-size: 16px;
+    color: black;
+}
+.empresa{
+    margin-top: 50px;
+}
+.colombia{
+    padding-bottom: -10px;
+}
+.TituloC{
+    color: #D60C12;
+}
