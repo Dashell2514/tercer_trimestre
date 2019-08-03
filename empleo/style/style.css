@@ -162,3 +162,10 @@ li:hover {
 .pequeño{
     margin-left: 50px;
 }
+.tamaño1{
+    width: 200px;
+    height: 100px;
+}
+.margin{
+    margin-left: 10px;
+}
